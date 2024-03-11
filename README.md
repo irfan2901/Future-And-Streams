@@ -1,6 +1,6 @@
 # future_and_streams
 
-A new Flutter project.
+A new Flutter project. 
 
 ## Getting Started
 
